@@ -1,0 +1,10 @@
+tqdm
+selenium
+pandas
+lxml
+requests
+multitasking
+pyttsx3
+pydantic
+webdriver-manager
+openpyxl
